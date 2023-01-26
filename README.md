@@ -10,7 +10,7 @@
 </p>
 
 
-<p> Daily Task Planner is created using QtDesigner Tools and Python. </p>
+<p> Daily Task Planner is created using QtDesigner Tools and Python 3.9.0. </p>
 
 <h2> Background </h2>
 <p> A little bit of backstory to this personal project, I was actually lazy to look for applications / programs on the Internet to keep track of my daily tasks. Windows Sticky Notes has always been my go-to app for me to keep track of tasks. However, there were certain limitations to using Sticky Note for this purpose, and figured that I should create my own to-do task planner with the use of some simple Python code and the QtDesigner tool. </p>
@@ -53,8 +53,10 @@
 </table>
 
 <h2> Getting Started </h2>
---WIP--
 
 1. Clone the repository into your local disk
-2. Download qtdesigner tools and Python 
-3. Run the main.py file 
+2. Create a virtual environment in the same directory.
+3. In the virtual environment, download PyQt5 using ```pip install pyqt5```
+4. Then, download PyQt5-Tools using ```pip install pyqt5-tools```
+5. Lastly, if you have yet to, download Python 3.9.0. in your virtual environment. 
+6. Run the main.py file.
