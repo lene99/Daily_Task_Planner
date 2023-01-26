@@ -60,3 +60,8 @@
 4. Then, download PyQt5-Tools using ```pip install pyqt5-tools```
 5. Lastly, if you have yet to, download Python 3.9.0. in your virtual environment. 
 6. Run the main.py file.
+
+<h2> Additional Information </h2>
+<p> For it to be useful, I've also created a .bat file which opens up the program everytime i start up my computer so that I can be reminded of what are the tasks I would need to complete for the day. (Hopefully this will also make me become more disciplined as compared to before with the Sticky Notes!)
+  
+<p> Upcoming version 2 will include some other additional functionalities. My ultimate goal for this program is to slowly expand it to become an AiO program which lets me manage my tasks, set reminders, grocery list, keeping track of my current toiletries usage, expiry dates, etc. Once I am fully satisfied with the program, I will package it into an executable file so that my peers can just download the .exe file to use it, instead of having to do the technical steps, especially for those havev limited knowledge on git functionalities. </p> 
