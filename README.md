@@ -12,7 +12,7 @@
 </p>
 
 
-<p> Daily Task Planner is created using QtDesigner Tools, Python 3.9.0, and SQLite Server for the backend. </p>
+<p> Daily Task Planner is created using QtDesigner Tools, Python 3.9.0, and SQLite 3.32.2 for the backend. </p>
 
 <h2> Background </h2>
 <p> A little bit of backstory to this personal project, I was actually lazy to look for applications / programs on the Internet to keep track of my daily tasks. Windows Sticky Notes has always been my go-to app for me to keep track of tasks. However, there were certain limitations to using Sticky Note for this purpose, and figured that I should create my own to-do task planner with the use of some simple Python code and the QtDesigner tool. </p>
@@ -60,8 +60,9 @@
 2. Create a virtual environment in the same directory.
 3. In the virtual environment, download PyQt5 using ```pip install pyqt5```
 4. Then, download PyQt5-Tools using ```pip install pyqt5-tools```
-5. Lastly, if you have yet to, download Python 3.9.0. in your virtual environment. 
-6. Run the main.py file.
+5. Download SQLite3 <a href="https://www.sqlite.org/2022/sqlite-dll-win64-x64-3400100.zip">here</a>. 
+6. Lastly, if you have yet to, download Python 3.9.0. in your virtual environment. 
+7. Run the main.py file.
 
 <h2> Additional Information </h2>
 <p> For it to be useful, I've also created a .bat file which opens up the program everytime i start up my computer so that I can be reminded of what are the tasks I would need to complete for the day. (Hopefully this will also make me become more disciplined as compared to before with the Sticky Notes!)
