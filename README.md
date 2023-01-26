@@ -1,4 +1,4 @@
-<h1>:heavy_check_mark::date: Daily Task Planner :pencil2: </h1>
+<h1>:heavy_check_mark::date: Daily Task Planner by Jolene Chng:pencil2: </h1>
 
 <h2> Preview: </h2>
 <img src="https://user-images.githubusercontent.com/89850402/214809955-9dd4d73a-2f6d-4297-868c-b4cdcb1d1bf6.png" width="600px" height="500px" alt="Daily Task Planner Visual">
