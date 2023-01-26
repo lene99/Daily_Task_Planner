@@ -1,0 +1,1 @@
+"D:\Personal_Projects\Daily_Task_Management_QtDesigner\Scripts\python.exe" "D:\Personal_Projects\Daily_Task_Management_QtDesigner\main.py" 
