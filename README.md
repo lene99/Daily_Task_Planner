@@ -5,12 +5,14 @@
 
 <h2> Tools Utilized: </h2>
 <p align="middle">
-<img src=https://user-images.githubusercontent.com/89850402/214812154-068db4a8-4997-4e1f-b57c-27c46d336d9c.png width="200px" height="200px"/>  
-<img src=https://user-images.githubusercontent.com/89850402/214812214-8c6af571-cfdc-46ee-9890-a13c188d1b24.png width="400px" height="200px"/>
+<img src=https://user-images.githubusercontent.com/89850402/214824237-48470708-4300-4e5c-8d2a-b86a683f5d32.png width="200px" height="200px"/>  
+<img src=https://user-images.githubusercontent.com/89850402/214824141-e2c86c45-24e0-4b08-9eee-d419e972c87a.png width="400px" height="200px"/>
+<img src=https://user-images.githubusercontent.com/89850402/214824059-c1b95721-6bfc-417f-901b-9f8e628cf220.png width="400px" height="200px"/>
+
 </p>
 
 
-<p> Daily Task Planner is created using QtDesigner Tools and Python 3.9.0. </p>
+<p> Daily Task Planner is created using QtDesigner Tools, Python 3.9.0, and SQLite Server for the backend. </p>
 
 <h2> Background </h2>
 <p> A little bit of backstory to this personal project, I was actually lazy to look for applications / programs on the Internet to keep track of my daily tasks. Windows Sticky Notes has always been my go-to app for me to keep track of tasks. However, there were certain limitations to using Sticky Note for this purpose, and figured that I should create my own to-do task planner with the use of some simple Python code and the QtDesigner tool. </p>
